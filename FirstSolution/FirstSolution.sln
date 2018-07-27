@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Type", "Type\Type.csproj", "{3837B53D-2C7A-4232-BFDF-706791526434}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{48205BF4-E380-4EF7-81D9-1FEFC4CA4FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3837B53D-2C7A-4232-BFDF-706791526434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3837B53D-2C7A-4232-BFDF-706791526434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3837B53D-2C7A-4232-BFDF-706791526434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48205BF4-E380-4EF7-81D9-1FEFC4CA4FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48205BF4-E380-4EF7-81D9-1FEFC4CA4FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48205BF4-E380-4EF7-81D9-1FEFC4CA4FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48205BF4-E380-4EF7-81D9-1FEFC4CA4FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
