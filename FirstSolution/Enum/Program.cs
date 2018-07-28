@@ -19,6 +19,13 @@ namespace Enum
             int I = int.Parse(S);//Convertendo uma String para um int
             Console.Write(I);//Imprimindo a variável int;
             Console.ReadLine();
+
+            Console.WriteLine("Digite um texto: ");
+            string texto;//Criando uma variável do tipo string
+            texto = Console.ReadLine();//Lendo entrada do teclado e armazenando na variável texto
+            Console.WriteLine(texto);//Imprimindo a variável texto
+            Console.ReadLine();
+
         }
     }
 }
